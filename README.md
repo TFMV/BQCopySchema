@@ -36,11 +36,12 @@ python main.py
 ## Example Output
 
 (BQCopySchema) ☁  BQCopySchema [feature/v1] ⚡  python main.py
-Copied schema for table customer to tpch_copy
-Copied schema for table lineitem to tpch_copy
-Copied schema for table nation to tpch_copy
-Copied schema for table orders to tpch_copy
-Copied schema for table part to tpch_copy
-Copied schema for table partsupp to tpch_copy
-Copied schema for table region to tpch_copy
-Copied schema for table supplier to tpch_copy
+
+- Copied schema for table customer to tpch_copy
+- Copied schema for table lineitem to tpch_copy
+- Copied schema for table nation to tpch_copy
+- Copied schema for table orders to tpch_copy
+- Copied schema for table part to tpch_copy
+- Copied schema for table partsupp to tpch_copy
+- Copied schema for table region to tpch_copy
+- Copied schema for table supplier to tpch_copy
